@@ -1,17 +1,18 @@
-# 📸 Image Gallery App
+# 🚀 Pixify Gallery
 
-A modern and responsive image gallery built using React and Tailwind CSS.  
-This app fetches images from an external API and displays them with pagination.
+Pixify Gallery is a modern and responsive image gallery built using React and Tailwind CSS.  
+It dynamically fetches high-quality images from an API and provides a smooth browsing experience with pagination and interactive UI.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 📷 Dynamic image fetching using API
-- 🔄 Pagination (Next / Prev)
-- ⚡ Fast and responsive UI
-- 🎨 Modern design with Tailwind CSS
-- 🔗 Click image to view original source
+- 📸 Dynamic image fetching from API
+- 🔄 Pagination (Next / Prev navigation)
+- 🎨 Clean and modern UI with Tailwind CSS
+- ⚡ Fast and responsive design
+- 🔗 Clickable images to view original source
+- 🌙 Dark themed elegant interface
 
 ---
 
