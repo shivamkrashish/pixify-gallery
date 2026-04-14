@@ -1,8 +1,33 @@
-# React + Vite
+# 📸 Image Gallery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive image gallery built using React and Tailwind CSS.  
+This app fetches images from an external API and displays them with pagination.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 📷 Dynamic image fetching using API
+- 🔄 Pagination (Next / Prev)
+- ⚡ Fast and responsive UI
+- 🎨 Modern design with Tailwind CSS
+- 🔗 Click image to view original source
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- Axios
+- Picsum API
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/image-gallery-app.git
+cd image-gallery-app
+npm install
+npm start
