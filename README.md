@@ -27,7 +27,7 @@ This app fetches images from an external API and displays them with pagination.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/image-gallery-app.git
-cd image-gallery-app
+git clone https://github.com/your-username/gallery-project.git
+cd gallery-project
 npm install
 npm start
